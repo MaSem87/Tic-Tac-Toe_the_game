@@ -2,7 +2,8 @@
 
 
 This is a simple Tic Tac Toe game written in Python. The game is designed for two players and can be played on the command line.
-Game Rules
+
+Game Rules:
 
     The game board consists of a 3x3 grid of squares.
     Each player chooses a game marker: either "X" or "O".
