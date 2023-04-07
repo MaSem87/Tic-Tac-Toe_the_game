@@ -1,6 +1,5 @@
 # Tic-Tac-Toe_the_game
 
-Tic Tac Toe Game
 
 This is a simple Tic Tac Toe game written in Python. The game is designed for two players and can be played on the command line.
 Game Rules
